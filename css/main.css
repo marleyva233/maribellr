@@ -1,4 +1,14 @@
-#intro {
-	background-image: url("");
+/*#intro {
+	background-image: url("https://raw.githubusercontent.com/marleyva233/maribellr/master/img/4.jpg");
+	background-size: cover;
 	height: 100vh;
+}*/
+
+.round {
+	width: 200px;
+	border-radius: 50%;
+}
+
+.jumbotron img {
+	width: 100%;
 }
