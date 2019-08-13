@@ -1,9 +1,6 @@
-/*#intro {
-	background-image: url("https://raw.githubusercontent.com/marleyva233/maribellr/master/img/4.jpg");
-	background-size: cover;
+#home {
 	height: 100vh;
-}*/
-
+}
 .round {
 	width: 200px;
 	border-radius: 50%;
@@ -11,4 +8,17 @@
 
 .jumbotron img {
 	width: 100%;
+}
+.container ul li {
+	list-style: none;
+	display: inline-block;
+	padding: 5%;
+}
+#contact img {
+  -webkit-filter: invert(100%); /* Safari 6.0 - 9.0 */
+  filter: invert(100%);
+}
+
+#projects img {
+	max-width: 200px;
 }
